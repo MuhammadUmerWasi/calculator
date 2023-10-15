@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  name: DESKTOP-I9L9IHO # Specify the name of your self-hosted agent pool
+  name: 'DESKTOP-I9L9IHO' # Specify the name of your self-hosted agent pool
 
 steps:
 - task: NodeTool@0
